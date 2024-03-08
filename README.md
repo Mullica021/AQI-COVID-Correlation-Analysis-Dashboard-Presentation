@@ -85,4 +85,5 @@ There are 36 variables.
 ●Age_60
 
 ●religious_congregration_ratio
+
 ●immigrant_student_ratio
